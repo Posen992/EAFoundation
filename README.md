@@ -22,7 +22,7 @@ pod 'EAFoundation'
 
 ## Author
 
-chencode992@163.com, chen.Posen992@gmail.com
+chen.Posen992@gmail.com
 
 ## License
 
