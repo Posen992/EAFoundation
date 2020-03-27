@@ -1,6 +1,0 @@
-use_frameworks!
-target 'EAFoundation_Tests' do
-  pod 'EAFoundation', :path => '../'
-  
-  
-end
